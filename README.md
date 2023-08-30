@@ -8,7 +8,7 @@ Especificação
 
 Sistema de Gerenciamento de Comércio Eletônico voltado para desktop, que integra seus departamentos e atividades.
 
-Tencologias: Sistema desenvolvido em linguagem PHP Integrado com Banco de Dados MySql.
+Tencologias: Sistema desenvolvido em linguagem Javascript Integrado com Banco de Dados MySql.
 
 O sistema deve ser descompactado no disco local;
 
